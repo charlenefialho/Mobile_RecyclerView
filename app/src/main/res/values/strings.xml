@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Frases</string>
+    <string name="affirmation1">A única forma de chegar ao impossível é acreditar que é possível. -Alice no País das Maravilhas</string>
+    <string name="affirmation2">Desenvolver o sucesso a partir de suas falhas. O desânimo e fracasso são dois dos degraus mais seguro para o sucesso. -Dale Carnegie</string>
+    <string name="affirmation3">Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo. -Martin Luther King</string>
+    <string name="affirmation4">Conhecimento é estar ciente do que você pode fazer. Sabedoria é saber quando não fazer. -Anonymous</string>
+    <string name="affirmation5">Nenhuma obra-prima foi criada por um artista preguiçoso. -Anonymous</string>
+    <string name="affirmation6">Bem-aventurados aqueles que podem dar sem lembrar e levar sem esquecer. -Anonymous</string>
+    <string name="affirmation7">O êxito na vida não significa apenas ser bem sucedido, mas também sobrepor-se aos fracassos. -Maxwell Maltz</string>
+    <string name="affirmation8">Divide as dificuldades que tenhas de examinar em tantas partes quantas for possível, para uma melhor solução. -René Descartes</string>
+    <string name="affirmation9">É melhor falhar na originalidade do que ter sucesso na imitação. -Herman Melville</string>
+    <string name="affirmation10">Boas coisas vem para as pessoas que esperam, mas coisas ainda melhores vêm para aquelas que vão e buscam. -Anonymous</string>
+</resources>
